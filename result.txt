@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.5, pytest-8.4.1, pluggy-1.6.0
+rootdir: C:\Users\Hp\Devops-project_1
+collected 1 item
+
+test_app.py .                                                            [100%]
+
+======================== 1 passed in 348.12s (0:05:48) ========================
